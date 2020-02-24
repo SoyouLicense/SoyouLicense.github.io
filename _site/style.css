@@ -71,7 +71,7 @@ body {
 
 .container {
   margin: 0 auto;
-  max-width: 740px;
+  max-width: 840px;
   padding: 0 10px;
   width: 100%;
 }
@@ -99,6 +99,8 @@ h1 a {
 
 h2 {
   font-size: 24px;
+  padding-bottom: 0.3em;
+  border-bottom: 1px solid rgba(214, 212, 212, 0.878);
 }
 
 h3 {
@@ -153,7 +155,7 @@ strong, b {
 }
 
 img {
-  max-width: 100%;
+  max-width: 80%;
 }
 
 .gmnoprint img {
@@ -217,6 +219,7 @@ img {
 }
 .site-avatar img {
   border-radius: 5px;
+  max-width: 100%;
 }
 
 .site-info {
@@ -294,7 +297,7 @@ nav a {
   border-left: 2px solid #666;
   padding: 0.1em 1em;
   color: #666;
-  font-size: 22px;
+  font-size: 18px;
   font-style: italic;
 }
 .post .comments {
@@ -330,6 +333,11 @@ footer {
 
 code {
   font-family: 'Bitstream Vera Sans Mono','Courier', monospace;
+  padding: 2px 4px;
+  word-wrap: break-word;
+  color: #555;
+  background: #eee;
+  border-radius: 3px;
 }
 
 .highlight .c {

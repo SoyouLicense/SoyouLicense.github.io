@@ -3,13 +3,13 @@
 #
 
 # Name of your site (displayed in the header)
-name: Your Name
+name: Support
 
 # Short bio or description (displayed in the header)
-description: Web Developer from Somewhere
+description: 라이선스 CRM시스템 가이드를 제공합니다.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+avatar: https://github.com/SoyouLicense/SoyouLicense.github.io/tree/master/images/soyou_logo.png
 
 #
 # Flags below are optional

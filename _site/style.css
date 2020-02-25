@@ -130,6 +130,14 @@ ul, ol {
   padding-left: 30px;
 }
 
+ol > li {
+  margin: 40px 0;
+}
+
+ul > li {
+  margin: 5px 0;
+}
+
 ul {
   list-style-type: disc;
 }

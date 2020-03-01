@@ -23,17 +23,11 @@ title: (처음 시작하기) 2-1. 제안서 폼 이해하기
 
     ![](/images/write-proposal-detail/detail-1.png)
 
-- **다중 선택 Type 1**: 다수의 항목 선택이 가능합니다.
+- **다중 선택**: 다수의 항목 선택이 가능합니다.
 
     ![](/images/write-proposal-detail/detail-2.png)
-    - **선택된 항목**이 <u>회색</u>으로 나타납니다. (아래는 `머천다이징`과 `프로모션`이 선택된 상황입니다.)
+    - **선택된 항목**이 <u>회색</u>으로 나타납니다. (아래는 `제조`와 `소매`가 선택된 상황입니다.)
     ![](/images/write-proposal-detail/detail-3.png)
-
-- **다중 선택 Type 2**: 다수의 항목 선택이 가능합니다.
-
-    ![](/images/write-proposal-detail/detail-4.png)
-    - **선택된 항목**이 <u>회색</u>으로 나타납니다. (아래는 `양철`, `가죽`, `라이크라`, `빳빳한천`이 선택된 상황입니다.)
-    ![](/images/write-proposal-detail/detail-5.png)
 
 ## 문자 입력 항목
 - **단문 텍스트**: 한 줄로 간단하게 텍스트 작성이 가능합니다.

@@ -35,11 +35,23 @@ title: (처음 시작하기) 2. 제안서 작성하기
         - **제목**을 클릭하면 제안서를 이어서 작성할 수 있습니다.
         - **삭제** 버튼을 누르면 임시 문서를 삭제할 수 있습니다.
 
-4. 위에서 **제안서 작성**을 들어가시면 아래와 같은 화면을 보실 수 있습니다.
+4. 위에서 **제안서 작성**을 들어가시면 제안서 작성과 관련하여 동의를 구하는 페이지가 나타납니다.
+
+    ![](/images/write-proposal/proposal-confirm.png)
+    - 모든 내용을 확인하신 후 `1번`에 있는 체크박스를 클릭합니다.
+    - `2번`버튼을 눌러 제안서 작성을 시작합니다.
+
+5. 아래와 같이 제안서 작성 페이지가 나타납니다.
     
     ![](/images/write-proposal/proposal-2.png)
-    - 제안서 작성 페이지는 총 **5개의 주제**로 나눠져 있습니다. 
-        - `회사정보, 희망상품정보, 홍보방안, 유통채널, 계약조건제안`
+    - 제안서 작성 페이지는 총 **7개의 주제**로 나눠져 있습니다. 
+        - `Company Information`: 회사 정보 기술
+        - `Licensing Proposal Information`: 희망 상품 정보 기술
+        - `Marketing Plan`: 홍보 및 마케팅 방안 기술
+        - `Sales Channels`: 유통채널 기술
+        - `Royalty Program and Plan`: 계약조건의 제안 기술
+        - `Production Plan`: 제품별 세부 제작 계획 기술
+        - `Production Design & Concept`: 제작 제품의 예시 또는 디자인 파일 업로드
     - 각 페이지에서 다른 페이지로 버튼을 통해 이동이 가능합니다.
         ![](/images/write-proposal/proposal-3.png)
     - **위처럼 다른 페이지로 이동하면 현 페이지의 내용은 자동 저장됩니다.**
@@ -47,7 +59,7 @@ title: (처음 시작하기) 2. 제안서 작성하기
         ![](/images/write-proposal/proposal-8.png)
     - 제안서 폼 관련 가이드는 [여기]({{site.baseurl}}/Write-Proposal-detail)서 확인할 수 있습니다.
 
-5. 모든 페이지를 작성한 후 마지막 페이지에서 **제출** 버튼을 누르면 확인 메시지가 나타납니다.
+6. 모든 페이지를 작성한 후 마지막 페이지에서 **제출** 버튼을 누르면 확인 메시지가 나타납니다.
 
     ![](/images/write-proposal/proposal-4.png)
     ![](/images/write-proposal/proposal-5.png)

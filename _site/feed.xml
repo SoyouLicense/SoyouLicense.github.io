@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-02-25T11:43:17+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Support</title><subtitle>라이선스 CRM시스템 가이드를 제공합니다.</subtitle><entry><title type="html">(처음 시작하기) 2-1. 제안서 폼 이해하기</title><link href="http://localhost:4000/Write-Proposal-Detail/" rel="alternate" type="text/html" title="(처음 시작하기) 2-1. 제안서 폼 이해하기" /><published>2020-02-22T00:00:00+09:00</published><updated>2020-02-22T00:00:00+09:00</updated><id>http://localhost:4000/Write-Proposal-Detail</id><content type="html" xml:base="http://localhost:4000/Write-Proposal-Detail/">&lt;blockquote&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-03-01T16:55:13+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Support</title><subtitle>라이선스 CRM시스템 가이드를 제공합니다.</subtitle><entry><title type="html">(처음 시작하기) 2-1. 제안서 폼 이해하기</title><link href="http://localhost:4000/Write-Proposal-Detail/" rel="alternate" type="text/html" title="(처음 시작하기) 2-1. 제안서 폼 이해하기" /><published>2020-02-22T00:00:00+09:00</published><updated>2020-02-22T00:00:00+09:00</updated><id>http://localhost:4000/Write-Proposal-Detail</id><content type="html" xml:base="http://localhost:4000/Write-Proposal-Detail/">&lt;blockquote&gt;
   &lt;p&gt;이 문서는 당사 CRM시스템을 &lt;strong&gt;처음 시작하고자 하시는 분&lt;/strong&gt;들을 위한 가이드입니다.&lt;/p&gt;
 
   &lt;p&gt;1.&lt;a href=&quot;/Signup&quot;&gt;회원가입하기&lt;/a&gt; &lt;br /&gt;
@@ -25,21 +25,12 @@
     &lt;p&gt;&lt;img src=&quot;/images/write-proposal-detail/detail-1.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;다중 선택 Type 1&lt;/strong&gt;: 다수의 항목 선택이 가능합니다.&lt;/p&gt;
+    &lt;p&gt;&lt;strong&gt;다중 선택&lt;/strong&gt;: 다수의 항목 선택이 가능합니다.&lt;/p&gt;
 
     &lt;p&gt;&lt;img src=&quot;/images/write-proposal-detail/detail-2.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
     &lt;ul&gt;
-      &lt;li&gt;&lt;strong&gt;선택된 항목&lt;/strong&gt;이 &lt;u&gt;회색&lt;/u&gt;으로 나타납니다. (아래는 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;머천다이징&lt;/code&gt;과 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;프로모션&lt;/code&gt;이 선택된 상황입니다.)
+      &lt;li&gt;&lt;strong&gt;선택된 항목&lt;/strong&gt;이 &lt;u&gt;회색&lt;/u&gt;으로 나타납니다. (아래는 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;제조&lt;/code&gt;와 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;소매&lt;/code&gt;가 선택된 상황입니다.)
   &lt;img src=&quot;/images/write-proposal-detail/detail-3.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;다중 선택 Type 2&lt;/strong&gt;: 다수의 항목 선택이 가능합니다.&lt;/p&gt;
-
-    &lt;p&gt;&lt;img src=&quot;/images/write-proposal-detail/detail-4.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-    &lt;ul&gt;
-      &lt;li&gt;&lt;strong&gt;선택된 항목&lt;/strong&gt;이 &lt;u&gt;회색&lt;/u&gt;으로 나타납니다. (아래는 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;양철&lt;/code&gt;, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;가죽&lt;/code&gt;, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;라이크라&lt;/code&gt;, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;빳빳한천&lt;/code&gt;이 선택된 상황입니다.)
-  &lt;img src=&quot;/images/write-proposal-detail/detail-5.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
@@ -115,13 +106,28 @@
     &lt;/ul&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;위에서 &lt;strong&gt;제안서 작성&lt;/strong&gt;을 들어가시면 아래와 같은 화면을 보실 수 있습니다.&lt;/p&gt;
+    &lt;p&gt;위에서 &lt;strong&gt;제안서 작성&lt;/strong&gt;을 들어가시면 제안서 작성과 관련하여 동의를 구하는 페이지가 나타납니다.&lt;/p&gt;
+
+    &lt;p&gt;&lt;img src=&quot;/images/write-proposal/proposal-confirm.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+    &lt;ul&gt;
+      &lt;li&gt;모든 내용을 확인하신 후 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;1번&lt;/code&gt;에 있는 체크박스를 클릭합니다.&lt;/li&gt;
+      &lt;li&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;2번&lt;/code&gt;버튼을 눌러 제안서 작성을 시작합니다.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;아래와 같이 제안서 작성 페이지가 나타납니다.&lt;/p&gt;
 
     &lt;p&gt;&lt;img src=&quot;/images/write-proposal/proposal-2.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
     &lt;ul&gt;
-      &lt;li&gt;제안서 작성 페이지는 총 &lt;strong&gt;5개의 주제&lt;/strong&gt;로 나눠져 있습니다.
+      &lt;li&gt;제안서 작성 페이지는 총 &lt;strong&gt;7개의 주제&lt;/strong&gt;로 나눠져 있습니다.
         &lt;ul&gt;
-          &lt;li&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;회사정보, 희망상품정보, 홍보방안, 유통채널, 계약조건제안&lt;/code&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Company Information&lt;/code&gt;: 회사 정보 기술&lt;/li&gt;
+          &lt;li&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Licensing Proposal Information&lt;/code&gt;: 희망 상품 정보 기술&lt;/li&gt;
+          &lt;li&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Marketing Plan&lt;/code&gt;: 홍보 및 마케팅 방안 기술&lt;/li&gt;
+          &lt;li&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Sales Channels&lt;/code&gt;: 유통채널 기술&lt;/li&gt;
+          &lt;li&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Royalty Program and Plan&lt;/code&gt;: 계약조건의 제안 기술&lt;/li&gt;
+          &lt;li&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Production Plan&lt;/code&gt;: 제품별 세부 제작 계획 기술&lt;/li&gt;
+          &lt;li&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Production Design &amp;amp; Concept&lt;/code&gt;: 제작 제품의 예시 또는 디자인 파일 업로드&lt;/li&gt;
         &lt;/ul&gt;
       &lt;/li&gt;
       &lt;li&gt;각 페이지에서 다른 페이지로 버튼을 통해 이동이 가능합니다.
@@ -195,6 +201,8 @@
     &lt;p&gt;등록이 완료되면, &lt;strong&gt;코드&lt;/strong&gt;가 하나 발급됩니다. 이후에 &lt;u&gt;담당자 계정을 만들 때 필요&lt;/u&gt;하므로, &lt;strong&gt;꼭 따로 보관&lt;/strong&gt;해주시기 바랍니다.&lt;/p&gt;
 
     &lt;p&gt;&lt;img src=&quot;/images/signup/company-5.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+    &lt;p&gt;*위 코드가 &lt;strong&gt;외부에 노출되지 않도록 각별히 주의 부탁드립니다.&lt;/strong&gt;&lt;/p&gt;
   &lt;/li&gt;
 &lt;/ol&gt;
 
@@ -224,7 +232,7 @@
         &lt;p&gt;&lt;img src=&quot;/images/signup/email-confirm.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
       &lt;/li&gt;
       &lt;li&gt;
-        &lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;회사 코드&lt;/code&gt; 입력칸에 &lt;u&gt;회사 등록하면서 부여받은 코드&lt;/u&gt;를 입력한 후 &lt;strong&gt;확인하기&lt;/strong&gt; 버튼을 눌러주세요. 혹시 코드를 분실하셨을경우 &lt;a href=&quot;mailto:support@soyoucorp.com&quot;&gt;라이선시 운영팀에 문의&lt;/a&gt;해주세요.&lt;/p&gt;
+        &lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;회사 코드&lt;/code&gt; 입력칸에 &lt;u&gt;회사 등록하면서 부여받은 코드&lt;/u&gt;를 입력한 후 &lt;strong&gt;확인하기&lt;/strong&gt; 버튼을 눌러주세요. 혹시 코드를 분실하셨을경우 &lt;a href=&quot;mailto:support@soyoucorp.com&quot;&gt;라이선스 운영팀에 문의&lt;/a&gt;해주세요.&lt;/p&gt;
       &lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;

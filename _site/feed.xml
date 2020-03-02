@@ -1,9 +1,11 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-03-01T16:55:13+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Support</title><subtitle>라이선스 CRM시스템 가이드를 제공합니다.</subtitle><entry><title type="html">(처음 시작하기) 2-1. 제안서 폼 이해하기</title><link href="http://localhost:4000/Write-Proposal-Detail/" rel="alternate" type="text/html" title="(처음 시작하기) 2-1. 제안서 폼 이해하기" /><published>2020-02-22T00:00:00+09:00</published><updated>2020-02-22T00:00:00+09:00</updated><id>http://localhost:4000/Write-Proposal-Detail</id><content type="html" xml:base="http://localhost:4000/Write-Proposal-Detail/">&lt;blockquote&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-03-02T12:40:11+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Support</title><subtitle>라이선스 CRM시스템 가이드를 제공합니다.</subtitle><entry><title type="html">(처음 시작하기) 2-1. 제안서 폼 이해하기</title><link href="http://localhost:4000/Write-Proposal-Detail/" rel="alternate" type="text/html" title="(처음 시작하기) 2-1. 제안서 폼 이해하기" /><published>2020-02-22T00:00:00+09:00</published><updated>2020-02-22T00:00:00+09:00</updated><id>http://localhost:4000/Write-Proposal-Detail</id><content type="html" xml:base="http://localhost:4000/Write-Proposal-Detail/">&lt;blockquote&gt;
   &lt;p&gt;이 문서는 당사 CRM시스템을 &lt;strong&gt;처음 시작하고자 하시는 분&lt;/strong&gt;들을 위한 가이드입니다.&lt;/p&gt;
 
   &lt;p&gt;1.&lt;a href=&quot;/Signup&quot;&gt;회원가입하기&lt;/a&gt; &lt;br /&gt;
 2.&lt;a href=&quot;/Write-Proposal&quot;&gt;제안서 작성하기&lt;/a&gt; &lt;br /&gt;
 2-1.&lt;a href=&quot;/Write-Proposal-Detail&quot;&gt;제안서 폼 이해하기&lt;/a&gt;&lt;/p&gt;
+
+  &lt;p&gt;*웹 브라우저는 Explorer 보다는 Chrome이나 Firefox 사용을 권장드립니다.&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;이 문서는 &lt;strong&gt;제안서 폼&lt;/strong&gt;에 대한 대략적인 설명입니다.&lt;/p&gt;
@@ -57,12 +59,14 @@
 
     &lt;p&gt;&lt;img src=&quot;/images/write-proposal-detail/detail-8.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
   &lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><summary type="html">이 문서는 당사 CRM시스템을 처음 시작하고자 하시는 분들을 위한 가이드입니다. 1.회원가입하기 2.제안서 작성하기 2-1.제안서 폼 이해하기</summary></entry><entry><title type="html">(처음 시작하기) 2. 제안서 작성하기</title><link href="http://localhost:4000/Write-Proposal/" rel="alternate" type="text/html" title="(처음 시작하기) 2. 제안서 작성하기" /><published>2020-02-21T00:00:00+09:00</published><updated>2020-02-21T00:00:00+09:00</updated><id>http://localhost:4000/Write-Proposal</id><content type="html" xml:base="http://localhost:4000/Write-Proposal/">&lt;blockquote&gt;
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">이 문서는 당사 CRM시스템을 처음 시작하고자 하시는 분들을 위한 가이드입니다. 1.회원가입하기 2.제안서 작성하기 2-1.제안서 폼 이해하기 *웹 브라우저는 Explorer 보다는 Chrome이나 Firefox 사용을 권장드립니다.</summary></entry><entry><title type="html">(처음 시작하기) 2. 제안서 작성하기</title><link href="http://localhost:4000/Write-Proposal/" rel="alternate" type="text/html" title="(처음 시작하기) 2. 제안서 작성하기" /><published>2020-02-21T00:00:00+09:00</published><updated>2020-02-21T00:00:00+09:00</updated><id>http://localhost:4000/Write-Proposal</id><content type="html" xml:base="http://localhost:4000/Write-Proposal/">&lt;blockquote&gt;
   &lt;p&gt;이 문서는 당사 CRM시스템을 &lt;strong&gt;처음 시작하고자 하시는 분&lt;/strong&gt;들을 위한 가이드입니다.&lt;/p&gt;
 
   &lt;p&gt;1.&lt;a href=&quot;/Signup&quot;&gt;회원가입하기&lt;/a&gt; &lt;br /&gt;
 2.&lt;a href=&quot;/Write-Proposal&quot;&gt;제안서 작성하기&lt;/a&gt; &lt;br /&gt;
 2-1.&lt;a href=&quot;/Write-Proposal-Detail&quot;&gt;제안서 폼 이해하기&lt;/a&gt;&lt;/p&gt;
+
+  &lt;p&gt;*웹 브라우저는 Explorer 보다는 Chrome이나 Firefox 사용을 권장드립니다.&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;회원가입을 하셨다면, 로그인 후 제안서를 제출하실 수 있습니다.&lt;/p&gt;
@@ -155,12 +159,14 @@
 &lt;h2 id=&quot;주의사항&quot;&gt;주의사항&lt;/h2&gt;
 &lt;ol&gt;
   &lt;li&gt;제출이 완료된 제안서는 &lt;strong&gt;수정이 불가능&lt;/strong&gt;합니다.&lt;/li&gt;
-&lt;/ol&gt;</content><author><name></name></author><summary type="html">이 문서는 당사 CRM시스템을 처음 시작하고자 하시는 분들을 위한 가이드입니다. 1.회원가입하기 2.제안서 작성하기 2-1.제안서 폼 이해하기</summary></entry><entry><title type="html">(처음 시작하기) 1. 회원가입하기</title><link href="http://localhost:4000/Signup/" rel="alternate" type="text/html" title="(처음 시작하기) 1. 회원가입하기" /><published>2020-02-20T00:00:00+09:00</published><updated>2020-02-20T00:00:00+09:00</updated><id>http://localhost:4000/Signup</id><content type="html" xml:base="http://localhost:4000/Signup/">&lt;blockquote&gt;
+&lt;/ol&gt;</content><author><name></name></author><summary type="html">이 문서는 당사 CRM시스템을 처음 시작하고자 하시는 분들을 위한 가이드입니다. 1.회원가입하기 2.제안서 작성하기 2-1.제안서 폼 이해하기 *웹 브라우저는 Explorer 보다는 Chrome이나 Firefox 사용을 권장드립니다.</summary></entry><entry><title type="html">(처음 시작하기) 1. 회원가입하기</title><link href="http://localhost:4000/Signup/" rel="alternate" type="text/html" title="(처음 시작하기) 1. 회원가입하기" /><published>2020-02-20T00:00:00+09:00</published><updated>2020-02-20T00:00:00+09:00</updated><id>http://localhost:4000/Signup</id><content type="html" xml:base="http://localhost:4000/Signup/">&lt;blockquote&gt;
   &lt;p&gt;이 문서는 당사 CRM시스템을 &lt;strong&gt;처음 시작하고자 하시는 분&lt;/strong&gt;들을 위한 가이드입니다.&lt;/p&gt;
 
   &lt;p&gt;1.&lt;a href=&quot;/Signup&quot;&gt;회원가입하기&lt;/a&gt; &lt;br /&gt;
 2.&lt;a href=&quot;/Write-Proposal&quot;&gt;제안서 작성하기&lt;/a&gt; &lt;br /&gt;
 2-1.&lt;a href=&quot;/Write-Proposal-Detail&quot;&gt;제안서 폼 이해하기&lt;/a&gt;&lt;/p&gt;
+
+  &lt;p&gt;*웹 브라우저는 Explorer 보다는 Chrome이나 Firefox 사용을 권장드립니다.&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;당사 CRM시스템을 이용하기 위해서는 먼저 &lt;strong&gt;회원가입&lt;/strong&gt;을 해주셔야 합니다.&lt;/p&gt;
@@ -236,7 +242,7 @@
       &lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
-&lt;/ol&gt;</content><author><name></name></author><summary type="html">이 문서는 당사 CRM시스템을 처음 시작하고자 하시는 분들을 위한 가이드입니다. 1.회원가입하기 2.제안서 작성하기 2-1.제안서 폼 이해하기</summary></entry><entry><title type="html">(처음 시작하기) 단계별 가이드</title><link href="http://localhost:4000/Start-Guide/" rel="alternate" type="text/html" title="(처음 시작하기) 단계별 가이드" /><published>2020-02-19T00:00:00+09:00</published><updated>2020-02-19T00:00:00+09:00</updated><id>http://localhost:4000/Start-Guide</id><content type="html" xml:base="http://localhost:4000/Start-Guide/">&lt;p&gt;아래는 당사 CRM시스템을 &lt;strong&gt;처음 시작하고자 하시는 분&lt;/strong&gt;들을 위한 단계별 가이드입니다.&lt;/p&gt;
+&lt;/ol&gt;</content><author><name></name></author><summary type="html">이 문서는 당사 CRM시스템을 처음 시작하고자 하시는 분들을 위한 가이드입니다. 1.회원가입하기 2.제안서 작성하기 2-1.제안서 폼 이해하기 *웹 브라우저는 Explorer 보다는 Chrome이나 Firefox 사용을 권장드립니다.</summary></entry><entry><title type="html">(처음 시작하기) 단계별 가이드</title><link href="http://localhost:4000/Start-Guide/" rel="alternate" type="text/html" title="(처음 시작하기) 단계별 가이드" /><published>2020-02-19T00:00:00+09:00</published><updated>2020-02-19T00:00:00+09:00</updated><id>http://localhost:4000/Start-Guide</id><content type="html" xml:base="http://localhost:4000/Start-Guide/">&lt;p&gt;아래는 당사 CRM시스템을 &lt;strong&gt;처음 시작하고자 하시는 분&lt;/strong&gt;들을 위한 단계별 가이드입니다.&lt;/p&gt;
 
 &lt;h4 id=&quot;1회원가입하기&quot;&gt;1.&lt;a href=&quot;/Signup&quot;&gt;회원가입하기&lt;/a&gt;&lt;/h4&gt;
 &lt;h4 id=&quot;2제안서-작성하기&quot;&gt;2.&lt;a href=&quot;/Write-Proposal&quot;&gt;제안서 작성하기&lt;/a&gt;&lt;/h4&gt;

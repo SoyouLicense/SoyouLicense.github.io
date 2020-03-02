@@ -8,6 +8,8 @@ title: (처음 시작하기) 2. 제안서 작성하기
 >1.[회원가입하기]({{site.baseurl}}/Signup)   
 >2.[제안서 작성하기]({{site.baseurl}}/Write-Proposal)   
 >2-1.[제안서 폼 이해하기]({{site.baseurl}}/Write-Proposal-Detail)
+>
+>*웹 브라우저는 Explorer 보다는 Chrome이나 Firefox 사용을 권장드립니다.
 
 회원가입을 하셨다면, 로그인 후 제안서를 제출하실 수 있습니다.
 

@@ -9,7 +9,8 @@ title: (처음 시작하기) 2-1. 제안서 폼 이해하기
 >2.[제안서 작성하기]({{site.baseurl}}/Write-Proposal)   
 >2-1.[제안서 폼 이해하기]({{site.baseurl}}/Write-Proposal-Detail)
 >
->*웹 브라우저는 Explorer 보다는 Chrome이나 Firefox 사용을 권장드립니다.
+>**웹 브라우저는 Chrome이나 Firefox 사용을 해주시기 바랍니다.**
+>다른 웹브라우저 사용시 호환성 문제가 존재합니다.
 
 이 문서는 **제안서 폼**에 대한 대략적인 설명입니다.
 

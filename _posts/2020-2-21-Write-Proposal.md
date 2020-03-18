@@ -67,7 +67,7 @@ title: (처음 시작하기) 2. 제안서 작성하기
 
     ![](/images/write-proposal/proposal-4.png)
     ![](/images/write-proposal/proposal-5.png)
-    - `OK`버튼을 누르면 **모든 페이지에 이상이 없는지 확인**합니다.   
+    - `OK`버튼을 누르면 **모든 항목이 빠짐없이 작성되었는지 확인**합니다.   
     이상이 있을 시 아래와 같이 제출이 중단됩니다.   
     (**이상이 없을 시 제출이 완료되니, 제출하시기 전에 제안서 내용을 꼼꼼히 확인해주시기 바랍니다.**)
         ![](/images/write-proposal/proposal-7.png)
